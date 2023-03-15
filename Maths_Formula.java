@@ -27,5 +27,6 @@ class Maths_Formula
         System.out.println("Area of triange is" + at);
 
 
+        
     }
 }
