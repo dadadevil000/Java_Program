@@ -9,6 +9,7 @@ class Arithmetic_Operators
         System.out.println(a*b);
         System.out.println(a/b);
         System.out.println(a%b);
+        System.out.println((a+b)/(a*b)+(a-b));
 
     }
 }
